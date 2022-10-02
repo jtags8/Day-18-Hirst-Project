@@ -1,16 +1,14 @@
-# This is a sample Python script.
+# import colorgram
+#
+# rgb_colors = []
+# colors = colorgram.extract('nick_foles_td.jpg', 30)
+# for color in colors:
+#     r = color.rgb.r
+#     g = color.rgb.g
+#     b = color.rgb.b
+#     new_color = (r, g, b)
+#     rgb_colors.append(new_color)
+#
+# print(rgb_colors)
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+color_list = [(74, 93, 132), (103, 113, 51), (25, 30, 44), (218, 217, 212), (34, 29, 18), (133, 145, 75), (126, 145, 171), (169, 167, 145), (40, 57, 103), (12, 16, 13), (73, 85, 29), (223, 224, 228), (100, 124, 163), (39, 19, 23), (225, 227, 226), (223, 219, 221), (165, 158, 162), (101, 91, 96), (195, 196, 178), (89, 97, 89), (159, 163, 161), (106, 42, 34), (107, 37, 45), (182, 190, 204), (55, 73, 45), (172, 113, 89), (44, 69, 80), (197, 188, 192), (135, 123, 128), (202, 188, 183)]

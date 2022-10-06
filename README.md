@@ -1,7 +1,5 @@
 <h1>Hirst Painting Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Project consists of utilizing a photo, extracting the top 10 colors from the photo, and randomizing through those 10 colors and creating a Hirst painting. This was done using the Turtle module in Python.
 <br />
@@ -11,7 +9,7 @@ Project consists of utilizing a photo, extracting the top 10 colors from the pho
 
 - <b>Python</b> 
 - <b>PyCharm</b>
-- <b>Nick Foles TD Picture</b>
+- <b>Nick Foles TD Picture (Photo Credit: Charles Baus/Zuma Press)</b>
 
 <h2>Environments Used </h2>
 

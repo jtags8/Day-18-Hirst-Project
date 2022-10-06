@@ -18,7 +18,7 @@ Project consists of utilizing a photo, extracting the top 10 colors from the pho
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Download the colorgram module: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 

@@ -19,7 +19,7 @@ Project consists of utilizing a photo, extracting the top 10 colors from the pho
 
 <p align="center">
 Download the colorgram module: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aR2VB8J.png" height="80%" width="80%" alt="Hirst Project Steps"/>
 <br />
 
 <!--

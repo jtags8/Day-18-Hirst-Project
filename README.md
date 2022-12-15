@@ -15,13 +15,6 @@ Project consists of utilizing a photo, extracting the top 10 colors from the pho
 
 - <b>Windows 11</b>
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Download the colorgram module: <br/>
-<img src="https://i.imgur.com/aR2VB8J.png" height="80%" width="80%" alt="Hirst Project Steps"/>
-<br />
-
 <!--
  ```diff
 - text in red
